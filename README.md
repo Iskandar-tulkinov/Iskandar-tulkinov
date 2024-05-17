@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Iskandar-tulkinov
+- 👋 Hi, I’m Iskandar
 - 👀 I’m interested in creating user-friendly interfaces
 - 🌱 I’m currently learning VueJS
